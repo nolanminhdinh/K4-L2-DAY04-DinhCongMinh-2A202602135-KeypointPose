@@ -1,4 +1,4 @@
-# Mini guideline - nhóm: ______  |  người gán: ______  |  ngày: ______
+# Mini guideline - Cá nhân: Đinh Công Minh  |  người gán: Đinh Công Minh  |  ngày: 16/09/2026
 
 > Điền file này **trong lúc** gán nhãn, không phải sau khi xong. Mỗi lần bạn dừng lại
 > hơn 10 giây để phân vân, đó là một dòng phải ghi vào đây.
@@ -14,14 +14,14 @@
 
 ## 2. Luật của nhóm bạn (phải điền)
 
-| Tình huống | Luật nhóm bạn chọn | Vì sao |
+| Tình huống | Luật bạn chọn | Vì sao |
 | --- | --- | --- |
-| Hông của người mặc quần áo dài | | |
-| Tai bị tóc hoặc mũ bảo hiểm che một phần | | |
-| Người bị cắt ở mép ảnh (chỉ thấy từ hông trở lên) | | |
-| Cổ tay nằm sau tay lái / sau thân mình | | |
-| Hai người chồng lên nhau | | |
-| Người nhỏ đến mức nào thì không gán nữa | | |
+| Hông của người mặc quần áo dài | Gán point vào điểm cách cạp quần 1 khoảng đồng nhất giữa các ảnh | Thông thường hông sẽ nằm phía dưới cạp quần không quá xa |
+| Tai bị tóc hoặc mũ bảo hiểm che một phần | Căn cứ theo vị trí của các phần tai nhìn thấy được để ước lượng gán điểm | vì các bộ phận trên cơ thể đều có vị trí cân đối, ở 1 số người có cơ thể lệch cũng ko bị quá nhiều |
+| Người bị cắt ở mép ảnh (chỉ thấy từ hông trở lên) | chỉ gán các bộ phận nhìn thấy, gán khuất khỏi cam với các bộ phận khác | các điểm không nhìn thấy không thể đoán được vì chiều dài cơ thể mỗi người là khác nhau không thể đo lường tương đối đoán để gán được |
+| Cổ tay nằm sau tay lái / sau thân mình | gán điểm bị che khuất, vị trí thì dựa vào phần khuỷu tay hay vai và tư thế của dáng tay để đoán | Dựa theo hoạt động bình thường hành vi của con người để gán, các vị trí đặt tay thông thường, độ dài các bộ phận trên cơ thể người |
+| Hai người chồng lên nhau | Dựa vào bộ phần có thể nhìn thấy được của người để xem xét vị trí của các điểm còn lại kết hợp với tư thế của người đó | Vì tư thế của con người đảm bảo hoạt động bình thường của cơ thể nên chỉ cần dựa vào phần cơ thể còn lại để gán|
+| Người nhỏ đến mức nào thì không gán nữa | không thể nhìn thấy rõ tách biệt giữa các bộ phận trên cơ thể | vì khi đó việc đoán tạo ra nhãn không chắc chắn các điểm được đoán không có căn cứ sẽ làm cho AI học đoán mò sai lầm |
 
 Với mỗi luật, chèn **một ảnh mẫu** (screenshot từ CVAT) thay vì chỉ viết một câu.
 Slide 12 nói rõ: khớp không có bề mặt nhìn thấy được thì phải có ảnh mẫu, không phải
